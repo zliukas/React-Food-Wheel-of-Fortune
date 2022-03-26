@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&family=Source+Sans+Pro&display=swap');
+
+
+
+header {
+    padding: 10px;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    background: #232323;
+    color: #ccc;
+}
+
+.logo {
+    font-weight: 14;
+    letter-spacing: 1.7px;
+    }
