@@ -117,6 +117,7 @@ class Wheel extends React.Component {
 }
 
 const styles = {
+    
     body:{
      margin:'0'  
     },
